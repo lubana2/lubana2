@@ -1,4 +1,14 @@
-### Hi there 👋
+## ✨ Luz Bandy Naranjo ✨
+### Salesforce Developer
+
+Bioengineer with good programming skills, good interpersonal relationships, ability
+to work in teams, willingness to obtain new knowledge and great ability to take on
+challenges.
+
+I have experience as DB Administrator and Mainframe Developer.
+
+🌱 I’m currently learning JavaScript. 
+
 
 <!--
 **lubana2/lubana2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
